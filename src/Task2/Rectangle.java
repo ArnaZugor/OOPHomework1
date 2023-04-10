@@ -22,7 +22,6 @@ public class Rectangle {
         this.sideB = sideB;
     }
 
-    //metode
     public double getCircumference() {
         return 2 * this.sideA + 2 * this.sideB;
     }

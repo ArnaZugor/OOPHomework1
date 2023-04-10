@@ -35,7 +35,7 @@ public class TShirt {
     public void setPrice(final double price) {
         this.price = price;
     }
-    //Metode
+
     public void increasedPrice(double value) {
         this.price+=value;
     }
